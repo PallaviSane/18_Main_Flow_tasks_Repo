@@ -48,7 +48,7 @@ print("Dictionary after deleting item: ",flowers)
 flowers[2]="Rose"
 print(flowers.items())
 
-#set : unordered, immutable and not allow duplicate value
+#set : unordered, mutable and not allow duplicate value
 
 set={1,2,3,4,5,6,7} #creating set 
 
